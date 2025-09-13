@@ -19,7 +19,7 @@ Desktop application for gamers to create custom crosshairs in games where built-
 2. Install required Python modules:
 
 ```bash
-pip install -r requirements.txt
+pip install -r req.txt
 ```
 
 ---
