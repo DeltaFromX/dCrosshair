@@ -29,7 +29,7 @@ pip install -r req.txt
 Run the application with Python:
 
 ```bash
-python crosshair.py
+python main.py
 ```
 
 * Open the **dCrosshair Library** window to customize your crosshair.
